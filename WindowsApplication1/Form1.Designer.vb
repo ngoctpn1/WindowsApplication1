@@ -30,9 +30,9 @@ Partial Class Form1
         Me.Button1.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(163, Byte))
         Me.Button1.Location = New System.Drawing.Point(44, 47)
         Me.Button1.Name = "Button1"
-        Me.Button1.Size = New System.Drawing.Size(189, 132)
+        Me.Button1.Size = New System.Drawing.Size(205, 161)
         Me.Button1.TabIndex = 0
-        Me.Button1.Text = "Chưa Chỉnh Sửa"
+        Me.Button1.Text = "Đã Chỉnh Sửa"
         Me.Button1.UseVisualStyleBackColor = True
         '
         'Form1
